@@ -1,0 +1,10 @@
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\bin\Debug\Telvistaprueba.exe.config
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\bin\Debug\Telvistaprueba.exe
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\bin\Debug\Telvistaprueba.pdb
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\obj\Debug\Telvistaprueba.csproj.AssemblyReference.cache
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\obj\Debug\Telvistaprueba.Properties.Resources.resources
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\obj\Debug\Telvistaprueba.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\obj\Debug\Telvistaprueba.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\obj\Debug\Telvistaprueba.exe
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\obj\Debug\Telvistaprueba.pdb
+C:\Users\maste\source\repos\Telvistaprueba\Telvistaprueba\obj\Debug\Telvistaprueba.Form1.resources
